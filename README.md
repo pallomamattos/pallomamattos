@@ -6,7 +6,7 @@ _____________________________________________________________________________
 
 🤔 Procuro ajuda com linguagem JavaScript
 
-📫 Você pode entrar em contato comigo através do e-mail: pallomamattoss@gmail
+📫 Você pode entrar em contato comigo através do e-mail: pallomamattoss@gmail.com
 _____________________________________________________________________________
 
  
