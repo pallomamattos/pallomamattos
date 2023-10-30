@@ -1,12 +1,12 @@
 
 ## ✔ Sobre mim
-30 anos - São Paulo - Ela/Dela
+Desenvolvedora Front-End - 30 anos - São Paulo - Ela/Dela
 _____________________________________________________________________________
-🧠 Estou aprendendo Front-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
 
-🤔 Procuro ajuda com linguagem JavaScript
-
-📫 Você pode entrar em contato comigo através do e-mail: pallomamattoss@gmail.com
 _____________________________________________________________________________
+Você pode entrar em contato comigo através do meu Linkedin! <a href=https://www.linkedin.com/in/paloma-matos/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
+</a>
 
  
