@@ -1,6 +1,6 @@
 
 ## ✔ Sobre mim
-Product Owner • Curiosa • Aprendiz de tecnologia - 30 anos - São Paulo - Ela/Dela
+Product Owner • Product Manager • Metodologias Ágeis 
 _____________________________________________________________________________
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
 
