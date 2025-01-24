@@ -1,5 +1,5 @@
 
-#### ✔ Analista de Sistemas | Desenvolvedora de Software
+#### ✔ Desenvolvedora de Software FrontEnd
 #### ✔ Pós Graduanda em Engenharia de Software 
 
 
